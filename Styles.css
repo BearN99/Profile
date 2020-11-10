@@ -1,0 +1,44 @@
+body{
+    font-size: 1em;
+    font-weight: normal;/*Finaly comments*/
+    font-family: "Consolas", monospace;
+    color: #ffbb00;
+    text-align: center;
+    min-Width: 500px;
+    background-image: url(./Images/options_background.png);
+    background-attachment: fixed;
+    background-position: left top;
+}
+div { 
+    background-image: url(./Images/options_background_dimetro1.png);
+    background-position: left top;
+    padding: 50px;
+    border: 0px solid black;
+    border-style: ridge;
+    border-radius: 2px;
+border-color: #739DFF;
+box-shadow: 5px 5px #122F34;
+border-top-left-radius: 100px 100px;
+
+width: 30em;
+    margin: 0;
+overflow: auto;
+
+  }
+  nav {
+        background-image: url(./Images/options_background_dimetro1.png);
+        background-position: left top;
+        padding: 0px;
+       border: 0.1px solid black;
+       border-style: outset;
+   border-color: #739DFF;
+   box-shadow: 5px 5px #122F34;
+   border-radius: 2px;
+   border-width: 0px;
+   
+   margin-left: auto;
+   margin-right: auto;
+   width: 20em;
+   
+   overflow: auto;
+   }
