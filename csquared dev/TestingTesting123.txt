@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Error
+=======
+This should be a conflict
+>>>>>>> conflict
